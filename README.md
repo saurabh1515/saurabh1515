@@ -1,8 +1,12 @@
-# 💫 About Me:
-Hi 👋, I'm Saurabh Shukla
-* 🌱 I’m a backend developer.
-* 🔭 I love problem solving and learning new technologies.
-* ⚡ Fun fact, "42" in The Hitchhiker’s Guide to the Galaxy is the ASCII code for an asterisk (*), representing anything or everything in programming.
+<h1 align="center">Hi 👋, I'm Saurabh Shukla</h1>
+<h3 align="center">A software engineer ☕ who likes programming and playing chess♟️.</h3>
+
+
+### About me:
+
+- 🌱 I’m a backend developer.
+- 🔭 I love problem solving and learning new technologies.
+- ⚡ Fun fact, "42" in The Hitchhiker’s Guide to the Galaxy is the ASCII code for an asterisk (*), representing anything or everything in programming.
 
 
 ## 🌐 Socials:
