@@ -9,8 +9,8 @@ I'm a backend developer with 4+ years of experience building scalable microservi
 ## 🚀 What I Do
 
 - 🏗️ Design and build **microservices** using Spring Boot and event-driven architecture
-- ⚡ Optimize **database performance** and reduce query execution time by 30%+
-- 🔄 Create **event-driven systems** with Kafka that reduce manual intervention by 60%
+- ⚡ Optimize **database performance** and reduce query execution time
+- 🔄 Create **event-driven systems** with Kafka that reduce manual intervention
 - ☁️ Deploy and scale applications on **AWS** using Docker and CI/CD pipelines
 - 🏦 Build secure **payment systems** and financial applications (SWIFT, CBDC networks)
 
