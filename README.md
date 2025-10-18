@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurabh Shukla</h1>
+<h1 align="center">Hey there 👋 I'm Saurabh Shukla</h1>
 <h3 align="center">A software engineer 👩‍💻 who likes programming and playing chess♟️.</h3>
 
 
@@ -18,10 +18,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh1515&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh1515&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=saurabh1515&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
