@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Saurabh Shukla
 
-## ☕ Saurabh Shukla: Senior Backend Engineer | Java, Spring Boot, & Distributed Systems
+## ☕ Senior Backend Engineer | Java, Spring Boot, & Distributed Systems
 
 **4+ years crafting high-performance, scalable microservices and event-driven architectures for Fintech.**
 
