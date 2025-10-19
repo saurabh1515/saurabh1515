@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh1515&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+  
+![stats](https://github-readme-stats.vercel.app/api?username=saurabh1515&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabh1515&theme=react&hide_border=true)
 
