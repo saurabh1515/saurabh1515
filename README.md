@@ -11,7 +11,7 @@
 |  Area | Description |
 |  :--- | :--- |
 | ✅  **Microservices Architecture** | Design and delivery of resilient, high-volume microservices using **Java** and **Spring Boot**. |
-| 🚀  **Performance Optimization** | Reduced database latency by up to **40%** through advanced query and indexing techniques (**PostgreSQL/MySQL**). *(Use your own metric!)* |
+| 🚀  **Performance Optimization** | Reduced database latency by up to **40%** through advanced query and indexing techniques (**PostgreSQL/MySQL**). |
 | 🧠  **Event-Driven Systems** | Built real-time processing pipelines using **Kafka** to automate critical business flows and reduce manual intervention. |
 | ☁️  **Cloud & DevOps** | Containerization with **Docker** and deployment/scaling on **AWS** via robust CI/CD (**Jenkins**). |
 | 🔒  **FinTech Specialist** | Designed and built secure, compliant financial/payment systems (e.g., **SWIFT**, **CBDC** networks). |
