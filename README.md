@@ -1,10 +1,10 @@
-# Hey there 👋 I'm Saurabh Shukla
+# Hey there 👋, I'm Saurabh Shukla
 
 ## ☕ Senior Backend Engineer | Java, Spring Boot, & Distributed Systems
 
 **4+ years crafting high-performance, scalable microservices and event-driven architectures for Fintech.**
 
----
+
 
 ## ⚙️ Core Expertise & Impact
 
@@ -47,11 +47,11 @@
 
 <div align="center">
   
-![stats](https://github-readme-stats.vercel.app/api?username=saurabh1515&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=saurabh1515&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabh1515&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabh1515&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh1515&theme=react&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh1515&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
